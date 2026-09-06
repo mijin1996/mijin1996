@@ -14,9 +14,9 @@
 <br>
 <code>Erasing and rebuilding, erasing and rebuilding,</code>
 <br>
-<code>repeatedly organizings are my hobby.</code>
+<code>repeatedly organizings are my hobby.🫨</code>
 <br>
-<code>🫨</code>
+<code></code>
 <div>
 
 

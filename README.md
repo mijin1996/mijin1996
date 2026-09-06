@@ -16,7 +16,7 @@
 <br>
 <code>repeatedly organizings are my hobby.</code>
 <br>
-<code>SoOnlyFewRPLeftoverr🫨</code>
+<code>🫨</code>
 <div>
 
 
@@ -24,6 +24,3 @@
 <br><br><br><br><br><br><br><br>
 
 
-[ Certificate ]
-//< 보육교사 
->

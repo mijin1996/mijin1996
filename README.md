@@ -46,6 +46,6 @@
 
 | |제목|설명|
 |---|---|---|
-|<img src="icon/ProgramingMiniBible.png" width="60"/>|코딩나라 탐험|초·중학생을 위한 코딩 그림책 — 개인적으로 공부했던 내용을 교재로 제작|
+|<img src="icon/ProgramingMiniBible.png" width="60"/>|코딩나라 탐험|초·중학생을 위한 프로그래밍 교재 — 개인적으로 공부했던 내용을 교재로 제작|
 
 <br><br><br><br>

@@ -22,9 +22,9 @@
 
 | |제목|설명|
 |---|---|---|
-|<img src="이미지주소" width="60"/>|[URURU](https://app-ururu.pages.dev/)|스와이프로 친구를 만나고 바로 채팅하는 소셜 웹앱|
-|<img src="이미지주소" width="60"/>|[C 마스터](https://app-c-master.itsjinmi.workers.dev/)|C언어 학습 웹앱|
-|<img src="images/bootboot.png" width="60"/>|[골라서 붙붙](https://app-collage-bootboot.pages.dev/)|사진 콜라주 웹앱|
+|<img src="icon/URURU.png" width="60"/>|[URURU](https://app-ururu.pages.dev/)|스와이프로 친구를 만나고 바로 채팅하는 소셜 웹앱|
+|<img src="icon/c-master.png" width="60"/>|[C 마스터](https://app-c-master.itsjinmi.workers.dev/)|C언어 학습 웹앱|
+|<img src="icon/BootBoot.png" width="60"/>|[골라서 붙붙](https://app-collage-bootboot.pages.dev/)|사진 콜라주 웹앱|
 
 ## 🎮 게임
 

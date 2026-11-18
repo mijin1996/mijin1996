@@ -30,8 +30,8 @@
 
 | |제목|설명|
 |---|---|---|
-|<img src="images/runny-bunny.png" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|Unity 러너 게임 (Google Play)|
-|<img src="images/runit.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Google Play)|
+|<img src="icon/RunnyBunny.png" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|Unity 러너 게임 (Google Play)|
+|<img src="icon/runit.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Google Play)|
 |<img src="이미지주소" width="60"/>|[VR Bowling](https://gamejolt.com/games/vr-bowling/1108572)|공을 손으로 잡고 던지는 VR 볼링 게임 (GameJolt)|
 |<img src="이미지주소" width="60"/>|[Rainbow Beat Saber](https://gamejolt.com/games/VRBeatSync/1112300)|박자에 맞춰 날아오는 노트를 광선검으로 베는 VR 리듬 게임 (GameJolt)|
 |<img src="이미지주소" width="60"/>|[TangTang Goblin Playground](https://gamejolt.com/games/tps-goblin)|몰려오는 고블린을 막는 모바일 TPS (GameJolt)|

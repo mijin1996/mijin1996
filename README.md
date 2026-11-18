@@ -8,7 +8,7 @@
 <br><br><br><br>
 <code>I just started to lean C, C#, java, little bit C++.</code>
 <br>
-<code>VeryVeryInterest👀</code>
+<code>I experienced an interesting world👀</code>
 <br>
 <br>
 <code>Erasing and rebuilding, erasing and rebuilding,</code>

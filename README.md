@@ -22,22 +22,24 @@
 
 | |제목|설명|
 |---|---|---|
-|<img src="이미지주소" width="60"/>|[우르르](https://app-ururu.pages.dev/)|채팅 웹앱|
+|<img src="이미지주소" width="60"/>|[URURU](https://app-ururu.pages.dev/)|스와이프로 친구를 만나고 바로 채팅하는 소셜 웹앱|
 |<img src="이미지주소" width="60"/>|[C 마스터](https://app-c-master.itsjinmi.workers.dev/)|C언어 학습 웹앱|
-|<img src="이미지주소" width="60"/>|[골라서 붙붙](https://app-collage-bootboot.pages.dev/)|사진 콜라주 웹앱|
+|<img src="images/bootboot.png" width="60"/>|[골라서 붙붙](https://app-collage-bootboot.pages.dev/)|사진 콜라주 웹앱|
 
 ## 🎮 게임
 
 | |제목|설명|
 |---|---|---|
-|<img src="이미지주소" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|Unity 러너 게임 (Android)|
-|<img src="이미지주소" width="60"/>|[Run it](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Android)|
-|<img src="이미지주소" width="60"/>|[게임 이름](게임졸트주소)|Game Jolt 등록 게임|
+|<img src="images/runny-bunny.png" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|Unity 러너 게임 (Google Play)|
+|<img src="images/runit.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Google Play)|
+|<img src="이미지주소" width="60"/>|[VR Bowling](https://gamejolt.com/games/vr-bowling/1108572)|공을 손으로 잡고 던지는 VR 볼링 게임 (GameJolt)|
+|<img src="이미지주소" width="60"/>|[Rainbow Beat Saber](https://gamejolt.com/games/VRBeatSync/1112300)|박자에 맞춰 날아오는 노트를 광선검으로 베는 VR 리듬 게임 (GameJolt)|
+|<img src="이미지주소" width="60"/>|[TangTang Goblin Playground](https://gamejolt.com/games/tps-goblin)|몰려오는 고블린을 막는 모바일 TPS (GameJolt)|
 
 ## 📚 교재
 
 | |제목|설명|
 |---|---|---|
-|<img src="이미지주소" width="60"/>|[코딩나라 탐험](교재주소)|초·중학생을 위한 코딩 그림책 — 개인적으로 공부했던 내용을 교재로 제작|
+|<img src="images/coding-nara.png" width="60"/>|코딩나라 탐험|초·중학생을 위한 코딩 그림책 — 개인적으로 공부했던 내용을 교재로 제작|
 
 <br><br><br><br>

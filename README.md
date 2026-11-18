@@ -32,9 +32,9 @@
 
 | |제목|설명|
 |---|---|---|
-|<img src="icon/RunnyBunny.png" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|Unity 러너 게임 (Google Play)|
-|<img src="icon/GRAZE.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Google Play)|
-|<img src="icon/TangTangGoblin.png" width="60"/>|[TangTang Goblin Playground](https://gamejolt.com/games/tps-goblin/1108802)|몰려오는 고블린을 막는 모바일 TPS (GameJolt)|
+|<img src="icon/RunnyBunny.png" width="60"/>|[Runny Bunny](https://play.google.com/store/apps/details?id=com.developerMJ.BunnyRunning)|2D Side Scrolling 게임 (Google Play)|
+|<img src="icon/GRAZE.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Dodge 3D 게임 (Google Play)|
+|<img src="icon/TangTangGoblin.png" width="60"/>|[TangTang Goblin Playground](https://gamejolt.com/games/tps-goblin/1108802)|몰려오는 고블린을 공격하는 TPS게임 (GameJolt)|
 
 ## <img src="icon/vr-player.png" width="30"/> 게임
 

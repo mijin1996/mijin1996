@@ -34,7 +34,7 @@
 |<img src="icon/runit.png" width="60"/>|[RUNIT](https://play.google.com/store/apps/details?id=com.Runit.myapp)|Unity 게임 (Google Play)|
 |<img src="icon/TangTangGoblin.png" width="60"/>|[TangTang Goblin Playground](https://gamejolt.com/games/tps-goblin/1108802)|몰려오는 고블린을 막는 모바일 TPS (GameJolt)|
 
-## 🎮 게임 <img src="icon/VR.png" width="60"/>
+## <img src="icon/vr-player.png" width="30"/> 게임
 
 | |제목|설명|
 |---|---|---|

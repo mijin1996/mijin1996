@@ -41,7 +41,7 @@
 | |제목|설명|시뮬레이션|
 |---|---|---|---|
 |<img src="https://m.gjcdn.net/game-screenshot/300/54295343-ihxjr3hb-v4.webp" width="60"/>|[VR Bowling](https://gamejolt.com/games/vr-bowling/1108572)|공을 손으로 잡고 던지는 VR 볼링 게임 (GameJolt)|url|
-|<img src="https://m.gjcdn.net/game-screenshot/300/54295168-vzkmbzmx-v4.webp" width="60"/>|[VR Beat Sync](https://gamejolt.com/games/VRBeatSync/1112300)|박자에 맞춰 날아오는 노트를 광선검으로 베는 VR 리듬 게임 (GameJolt)|url|
+|<img src="https://m.gjcdn.net/game-screenshot/300/54295168-vzkmbzmx-v4.webp" width="60"/>|[VR Beat Sync](https://gamejolt.com/games/VRBeatSync/1112300)|박자에 맞춰 날아오는 노트를 광선검으로 베는 VR 리듬 게임 (GameJolt)|url(https://mijin1996.github.io/game-VR-BeatSync/)|
 
 
 ## 📚 교재

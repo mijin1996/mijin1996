@@ -27,6 +27,18 @@
 | git **브랜치 · 병합** 흐름 | 깃 그래프 | [16](#16-깃-그래프--gitgraph) |
 | 무기 · 캐릭터 **능력치**를 여러 항목으로 비교 | 레이더 차트 | [17](#17-레이더-차트--radar-beta) |
 
+
+# Mermaid 방향 설정 (TD · LR · RL · BT)
+| 그림 종류 | `TD` · `LR` · `RL` · `BT` 적용 | 쓰는 법 |
+|---|---|---|
+| `flowchart` (흐름도 · 구성도) | ✅ | `flowchart LR` |
+| `subgraph` (묶음 상자 안) | ✅ | `direction LR` |
+| `stateDiagram-v2` (상태도) | ✅ | `direction LR` |
+| `classDiagram` (클래스도) | ✅ | `direction LR` |
+| `erDiagram` (DB 관계도) | ✅ | `direction LR` |
+| `xychart-beta` (막대 · 선그래프) | ❌ (`horizontal`로 가로만 가능) | `xychart-beta horizontal` |
+
+
 ### 이 프로젝트의 공통 규칙
 - 그림 위에 `**[종류] 제목**`, 그림 아래에 `> 읽는 법: …` 한 줄
 - 숫자 비교가 **현재 vs 제안**처럼 범례가 필요하면 그래프 대신 **표**

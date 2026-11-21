@@ -1,4 +1,4 @@
-# Guide_Mermaid
+# guideMermaid
 > 기획서에 그림이 필요할 때 이 파일에서 **질문에 맞는 틀**을 골라 복사해 쓰세요.
 > 글자(코드)로 적으면 GitHub · VS Code 미리보기(`Markdown Preview Mermaid Support` 확장)에서 그림으로 보여요.
 > ⭐ = 지금 게임 기획서(`docs/Proposal`)에서 쓰고 있는 틀

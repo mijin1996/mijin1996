@@ -29,13 +29,33 @@
 | 5 | Deployments → All deployments → `⋯` → Retry deployment | 재배포 | 3 · 4번 설정 적용 |
 
 ## 적용 확인
-- `POST /api/report` (빈 값): 503(준비 안 됨) → 400(입력 오류) ✅ 신고함 연결 확인
-- `GET /admin/api/reports` (키 없음): 401(키 필요) ✅ 관리자 키 적용 확인
-- 남은 확인: 실제 신고 1건 전송 → `/admin`에서 목록 표시 확인
+- `POST /api/report` (빈 값): 503 → 400 ✅ 신고함 연결 확인
+- `GET /admin/api/reports` (키 없음): 401 ✅ 관리자 키 적용 확인
+- `/admin` 로그인: 500 → 표 미생성, Console에서 표 생성 SQL 실행 필요
+- 남은 확인: 실제 신고 1건 전송 → `/admin` 목록 표시 확인
 
 ## 용어
 - API: 앱 ↔ 서버 요청 주소 (`/api/report`, `/admin/api/*`)
 - SQL: 서버 ↔ DB 명령 언어 (표 생성 · 저장 · 조회)
+- 표(table): DB 안의 데이터 보관 단위 (칸 = 항목, 줄 = 데이터 1건)
+- 바인딩: 코드 ↔ D1 연결 이름 (`REPORTS`)
+- Secret: 암호화 저장 값 (`ADMIN_KEY`, git 미포함)
+- Wrangler: Cloudflare 명령어 도구, 신고함 운영에는 불필요
+
+## 표 생성 SQL 예시
+- 용도: D1 Console에서 1회 실행 → 표 생성 (재실행해도 안전)
+- `CREATE TABLE`: 표 생성 · 칸 정의 / `CREATE INDEX`: 조회 속도용 색인
+
+```sql
+CREATE TABLE IF NOT EXISTS inquiries (
+  id         INTEGER PRIMARY KEY AUTOINCREMENT,
+  created_at INTEGER NOT NULL,
+  name       TEXT    NOT NULL,
+  message    TEXT    NOT NULL,
+  status     TEXT    NOT NULL DEFAULT 'new'
+);
+CREATE INDEX IF NOT EXISTS inquiries_created ON inquiries (created_at DESC);
+```
 - 바인딩: 코드 ↔ D1 연결 이름 (`REPORTS`)
 - Secret: 암호화 저장 값 (`ADMIN_KEY`, git 미포함)
 - Wrangler: Cloudflare 명령어 도구, 신고함 운영에는 불필요

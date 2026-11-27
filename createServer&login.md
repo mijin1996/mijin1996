@@ -140,7 +140,3 @@ CREATE INDEX IF NOT EXISTS guest_links_user ON guest_links (user_id);
 - `not-ready`: `ACCOUNTS` · `SESSION_SECRET` · `GOOGLE_CLIENT_IDS` 중 누락
 - 로그인 창 오류(origin 불허): 승인된 JavaScript 원본에 `https://tangles.pages.dev` 누락
 - 일부 사용자만 로그인 가능: 앱 게시 미완료 (테스트 중 상태)
-
-## 📌 미설정 (needFix)
-- 🧪 Preview(테스트판) 환경 계정 설정
-- 💳 결제(Paddle) 설정값 미입력 → 로그인 후 무료 기능만 사용
